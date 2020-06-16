@@ -3,7 +3,7 @@
 NY most popular articles 
 
 ## Getting Started
-
+![Image of App](https://github.com/motsem2010/nyapp/test/s1.jpg)
 MVC archi used and can see in the /Lib folder 
 Unit test check the returned result of restful JSON /test/main_test.dart.
 android project @android folder
