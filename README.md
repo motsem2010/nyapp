@@ -1,4 +1,4 @@
-# jo
+# NYTimes App
 
 NY most popular articles 
 
