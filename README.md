@@ -4,7 +4,10 @@ NY most popular articles
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+MVC archi used and can see in the /Lib folder 
+Unit test check the returned result of restful JSON /test/main_test.dart.
+android project @android folder
+IOS App @ /ios folder
 
 A few resources to get you started if this is your first Flutter project:
 
